@@ -1,2 +1,3 @@
 *DS_Store
-*.ipynb
+do-not-commit/*
+*ipynb_checkpoints/
