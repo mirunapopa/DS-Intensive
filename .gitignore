@@ -2,3 +2,6 @@
 do-not-commit/*
 *ipynb_checkpoints/
 __MACOSX/*
+data/*
+data_wrangling_json/data/*
+data_wrangling_xml/data/*
