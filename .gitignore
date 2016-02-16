@@ -6,4 +6,5 @@ data/*
 data_wrangling_json/data/*
 data_wrangling_xml/data/*
 ud120-projects/*
-
+xgb_from_kaggle.ipynb
+*.csv
